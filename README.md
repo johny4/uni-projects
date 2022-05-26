@@ -1,2 +1,2 @@
 # uni-projects
-University programming projects
+University programming projects repo
